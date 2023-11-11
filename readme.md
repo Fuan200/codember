@@ -12,3 +12,11 @@
 Codember is a game with programming challenges and investigation. Every person that solves all the challenges, will win a prize.
 
 To solve the challenges, you could use any programming language.
+
+### Challenge 01
+
+Solved :white_check_mark:
+
+### Challenge 02
+
+Solved :white_check_mark:

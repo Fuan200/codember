@@ -24,8 +24,3 @@ def main(input):
 
 if __name__ == '__main__':
     print(main(separate(get_input())))
-
-""""#" Incrementa el valor numérico en 1.
-"@" Decrementa el valor numérico en 1.
-"*" Multiplica el valor numérico por sí mismo.
-"&" Imprime el valor numérico actual."""
