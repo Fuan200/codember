@@ -2,13 +2,13 @@ def get_input():
     with open('input.txt', 'r') as f:
         return f.readlines()
 
-def validation_password(policy, password):
+def validation_password(policy: str, password:str) -> bool:
     positions, char = policy.split(' ')
     min_pos, max_pos = map(int, positions.split('-'))
     count = password.count(char)
     return min_pos <= count <= max_pos
 
-def count_forty_two(input, invalid_index=42):
+def count_forty_two(input: list, invalid_index = 42) -> str:
     invalid_passwords = []
     for line in input:
         policy, password = line.split(':')
