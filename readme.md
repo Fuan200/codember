@@ -15,8 +15,12 @@ To solve the challenges, you could use any programming language.
 
 ### Challenge 01
 
-Solved :white_check_mark:
+Solved      :white_check_mark:
 
 ### Challenge 02
 
-Solved :white_check_mark:
+Solved      :white_check_mark:
+
+### Challenge 03
+
+Solved      :white_check_mark:
